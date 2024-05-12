@@ -1,0 +1,1 @@
+this `trim_templates.json` file is not required, but I would recommend it since it's for tag searching in the creative menu and probably some other stuff I dont know of so, please, use it.
